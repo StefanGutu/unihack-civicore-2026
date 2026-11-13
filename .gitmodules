@@ -1,0 +1,3 @@
+[submodule "server-back"]
+	path = server-back
+	url = git@github.com:StefanGutu/server-backend.git
