@@ -1,3 +1,6 @@
 [submodule "server-back"]
 	path = server-back
 	url = git@github.com:StefanGutu/server-backend.git
+[submodule "bus-firmware"]
+	path = bus-firmware
+	url = https://github.com/sorykkk/bus-firmware.git
