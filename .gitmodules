@@ -4,3 +4,6 @@
 [submodule "bus-firmware"]
 	path = bus-firmware
 	url = https://github.com/sorykkk/bus-firmware.git
+[submodule "client-app"]
+	path = client-app
+	url = https://github.com/JosphC/client-app.git
