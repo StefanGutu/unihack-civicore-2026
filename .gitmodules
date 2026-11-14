@@ -4,3 +4,6 @@
 [submodule "bus-firmware"]
 	path = bus-firmware
 	url = https://github.com/sorykkk/bus-firmware.git
+[submodule "site"]
+	path = site
+	url = https://github.com/bim-upt/unihack-2026
